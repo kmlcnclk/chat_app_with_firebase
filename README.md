@@ -15,6 +15,8 @@ I have tried to make a chat app with Firebase.
 * Tailwindcss
 * Chakra UI
 * Firebase
+* Firebase Auth
+* Firebase Firestore
 * Redux
 * React Redux
 * @reduxjs/toolkit
